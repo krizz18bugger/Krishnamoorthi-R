@@ -21,7 +21,7 @@
 name: Krishnamoorthi R
 role: MERN Stack Developer
 education: "MCA @ The Gandhigram Rural Institute – DTBU (CGPA: 8.9)"
-currently: "Interned at ASM Academy, building production-ready dashboards"
+internship: "MERN Stack Developer Intern at ASM Academy, building production-ready dashboards"
 focus: ["React.js", "Node.js", "Express.js", "MongoDB", "REST APIs"]
 mindset: "Clean code. Scalable systems. User-first design."
 fun_fact: "I debug with console.log AND pride 😄"
