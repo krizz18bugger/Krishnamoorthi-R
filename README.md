@@ -12,8 +12,6 @@
 <a href="https://portfolio-phi-rosy-17.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <img src="https://komarev.com/ghpvc/?username=krizz18bugger&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
 
-<img src="https://komarev.com/ghpvc/?username=krizz18bugger&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
-
 </div>
 
 ### 🧑‍💻 About Me
