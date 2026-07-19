@@ -111,16 +111,16 @@ Responsive, accessible webpages that improved navigation & UX, with interactive 
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnamoorthi-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamoorthi-r&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krizz18bugger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krizz18bugger&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=krishnamoorthi-r&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=krizz18bugger&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krishnamoorthi-r&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=krizz18bugger&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -128,7 +128,7 @@ Responsive, accessible webpages that improved navigation & UX, with interactive 
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/krishnamoorthi-r/krishnamoorthi-r/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/krizz18bugger/krizz18bugger/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 > 🔧 *Setup note: this snake animates itself automatically once the included GitHub Action workflow runs on your profile repo — see the setup guide below.*
@@ -157,4 +157,3 @@ Responsive, accessible webpages that improved navigation & UX, with interactive 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ABC,100:2E9EF7&height=150&section=footer" />
 
 </div>
-
