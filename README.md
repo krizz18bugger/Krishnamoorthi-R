@@ -10,7 +10,6 @@
 <a href="https://www.linkedin.com/in/krishnamoorthi-r-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/krizz18bugger"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://portfolio-phi-rosy-17.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-
 <img src="https://komarev.com/ghpvc/?username=krizz18bugger&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
 
 </div>
@@ -111,8 +110,8 @@ Responsive, accessible webpages that improved navigation & UX, with interactive 
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krizz18bugger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krizz18bugger&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="./profile/stats.svg" />
+<img height="165" src="./profile/top-langs.svg" />
 </div>
 
 <div align="center">
@@ -120,7 +119,7 @@ Responsive, accessible webpages that improved navigation & UX, with interactive 
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krizz18bugger&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="./profile/trophy.svg" />
 </div>
 
 ---
@@ -131,7 +130,7 @@ Responsive, accessible webpages that improved navigation & UX, with interactive 
 <img src="https://raw.githubusercontent.com/krizz18bugger/krizz18bugger/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-> 
+> 🔧 *Setup note: this snake animates itself automatically once the included GitHub Action workflow runs on your profile repo — see the setup guide below.*
 
 ---
 
