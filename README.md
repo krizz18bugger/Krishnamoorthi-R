@@ -131,7 +131,7 @@ Responsive, accessible webpages that improved navigation & UX, with interactive 
 <img src="https://raw.githubusercontent.com/krizz18bugger/krizz18bugger/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-> 🔧 *Setup note: this snake animates itself automatically once the included GitHub Action workflow runs on your profile repo — see the setup guide below.*
+> 
 
 ---
 
