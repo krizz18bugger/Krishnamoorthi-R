@@ -12,6 +12,8 @@
 <a href="https://portfolio-phi-rosy-17.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <img src="https://komarev.com/ghpvc/?username=krizz18bugger&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
 
+<img src="https://komarev.com/ghpvc/?username=krizz18bugger&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
+
 </div>
 
 ### 🧑‍💻 About Me
@@ -127,7 +129,7 @@ Responsive, accessible webpages that improved navigation & UX, with interactive 
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/krizz18bugger/krizz18bugger/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/krizz18bugger/Krishnamoorthi-R/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 > 🔧 *Setup note: this snake animates itself automatically once the included GitHub Action workflow runs on your profile repo — see the setup guide below.*
