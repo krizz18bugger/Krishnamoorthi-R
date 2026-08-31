@@ -69,6 +69,7 @@ fun_fact: "I debug with console.log AND pride 😄"
 <table>
 <tr>
 <td width="50%" valign="top">
+  
 #### 🛒 JP Groceries E-Commerce Platform
 `React.js` `Node.js` `Express.js` `MongoDB` `Cloudinary` `JWT`
 
