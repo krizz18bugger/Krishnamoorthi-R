@@ -69,11 +69,10 @@ fun_fact: "I debug with console.log AND pride 😄"
 <table>
 <tr>
 <td width="50%" valign="top">
+#### 🛒 JP Groceries E-Commerce Platform
+`React.js` `Node.js` `Express.js` `MongoDB` `Cloudinary` `JWT`
 
-#### 🏨 Venue Booking Web Application
-`React.js` `Node.js` `Express.js` `MongoDB`
-
-Full-stack MERN app streamlining booking requests & approval workflows, with a Hall Owner dashboard for revenue analytics and booking status tracking — fully responsive across devices.
+Full-stack MERN e-commerce prototype streamlining retail orders via a dynamic WhatsApp checkout flow, featuring a secure JWT-authenticated Admin Dashboard for inventory and cloud image management, deployed with automated CI/CD pipelines on Vercel and Render.
 
 </td>
 <td width="50%" valign="top">
@@ -88,10 +87,10 @@ Manage anime & TV show watchlists with complete CRUD functionality. RESTful APIs
 <tr>
 <td width="50%" valign="top">
 
-#### 🌐 Developer Portfolio
-`React` `Framer Motion` `CSS`
+#### 🏨 Venue Booking Web Application
+`React.js` `Node.js` `Express.js` `MongoDB`
 
-Responsive portfolio with interactive animations & a dark mode toggle. Optimized for performance through reusable, accessible components.
+Full-stack MERN app streamlining booking requests & approval workflows, with a Hall Owner dashboard for revenue analytics and booking status tracking — fully responsive across devices.
 
 </td>
 <td width="50%" valign="top">
